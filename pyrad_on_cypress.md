@@ -10,7 +10,7 @@ Once your account is set up, logging in is easy. Replace "eenbody" with your Tul
 ```bash
 ssh eenbody@cypress1.tulane.edu
 ```
-
+```Jenn's comment: I had difficulty logging in at first because I'm working on a Windows machine - follow the SSH link on the wiki page for the HPC and follow the instructions re: downloading putty. Also, just put in your username for Tulane when you get to the login point, no need for the cypress1.tulane.edu (so, for example, I put into putty: ssh jsummers). THIS IS JUST FOR WINDOWS! Cheers
 ###pyRAD on cypress
 
 Now we can run the pyRAD tutorial on the cluster (http://nbviewer.jupyter.org/gist/dereneaton/1f661bfb205b644086cc/tutorial_RAD_3.0.ipynb)
