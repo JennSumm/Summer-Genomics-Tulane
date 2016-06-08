@@ -87,4 +87,4 @@ pyrad -p params.txt -s 1
 
 
 
-
+```Question from Jenn: Hello! So, I've gotten Cypress to work on our test jobs, but I'm confused about how to create a params.txt file and barcodes file and interact with the HPC after submitting the job. After submitting the job ticket, can I just create stuff and run pyRAD? because it doesn't appear to be working ... at least when I try to call pyRAD through the terminal. It says no such command. I've tried a few other things but it's not quite working...help!
